@@ -1,0 +1,1 @@
+# setup-iterm2-powerlevel10k
