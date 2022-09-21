@@ -13,6 +13,11 @@ https://ohmyz.sh
 
 https://github.com/romkatv/powerlevel10k
 
+in .zshrc change the theme by :
+ZSH_THEME="powerlevel10k/powerlevel10k"
+
+restart iterm
+
 after setup powerlevel10k copy all the line of the .p10k.zsh in the repository to the ~/.p10k.zsh file create in the computer
 
 ### PLUGINS
